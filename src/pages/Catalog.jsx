@@ -3,8 +3,9 @@ import ProductCard from '../components/ProductCard';
 
 const Catalog = () => {
   const [products] = useState([
-    { id: 1, name: "Pin Hora de Aventura", price: "$15.000", image: "/images/adeventure_time" },
-    { id: 2, name: "Producto 2", price: "$15", image: "https://via.placeholder.com/150" },
+    { id: 1, name: "Pin Hora de Aventura", price: "$15.000", image: process.env.PUBLIC_URL +"/images/adeventure_time.jpg" },
+    { id: 2, name: "aguacate", price: "$15.000", image: "/images/aguacate.jpg" },
+    { id: 1, name: "Pin Hora de Aventura", price: "$15.000", image: "https://via.placeholder.com/150" }
     // Agrega más productos aquí
   ]);
 
