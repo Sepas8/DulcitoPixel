@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DulcitoPixel/static/css/main.054dbf90.css",
-    "main.js": "/DulcitoPixel/static/js/main.a4e3309f.js",
+    "main.js": "/DulcitoPixel/static/js/main.9d2cee08.js",
     "static/js/453.19566255.chunk.js": "/DulcitoPixel/static/js/453.19566255.chunk.js",
     "index.html": "/DulcitoPixel/index.html",
     "main.054dbf90.css.map": "/DulcitoPixel/static/css/main.054dbf90.css.map",
-    "main.a4e3309f.js.map": "/DulcitoPixel/static/js/main.a4e3309f.js.map",
+    "main.9d2cee08.js.map": "/DulcitoPixel/static/js/main.9d2cee08.js.map",
     "453.19566255.chunk.js.map": "/DulcitoPixel/static/js/453.19566255.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.054dbf90.css",
-    "static/js/main.a4e3309f.js"
+    "static/js/main.9d2cee08.js"
   ]
 }
