@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://Sepas8.github.io/DulcitoPixel",
   "dependencies": {
+    "@teachablemachine/image": "^0.8.5",
+    "@tensorflow/tfjs": "^4.22.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
@@ -51,5 +53,4 @@
       "last 1 safari version"
     ]
   }
-  
 }
